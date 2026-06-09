@@ -1,4 +1,4 @@
 # git
 Trial repository
 <br>
-New repository
+New repo
